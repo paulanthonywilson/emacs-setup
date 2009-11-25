@@ -1,6 +1,7 @@
+
 ;;; Jim Weirich's GNU-Emacs Initialization File
 
-(setq elisp-directory "~jim/.elisp")
+(setq elisp-directory "~paul/dev/emacs/jimweirich-emacs")
 (load (concat elisp-directory "/load-ini.el"))
 
 (custom-set-variables
